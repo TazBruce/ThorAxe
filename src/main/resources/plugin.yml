@@ -1,0 +1,7 @@
+name: ThorAxe
+version: ${project.version}
+main: io.github.tazbruce.thoraxe.ThorAxe
+api-version: 1.16
+authors: [TazBruce]
+description: Thunder Axe!
+website: https://github.com/TazBruce
